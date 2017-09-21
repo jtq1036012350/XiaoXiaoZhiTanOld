@@ -7,7 +7,7 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name="MyAppTheme" parent="android:Theme.Light">
+    <style name="MyAppTheme" parent="AppTheme">
         <item name="android:windowNoTitle">true</item>
         <item name="android:fitsSystemWindows">true</item>
         <item name="colorPrimary">@color/colorPrimary</item>
